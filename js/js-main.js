@@ -106,7 +106,7 @@ new Swiper('.posters-slider', {
       },
       
       1200: {
-        slidesPerView: 1,
+        slidesPerView: 3,
       }
     }
   });
